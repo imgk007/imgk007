@@ -11,7 +11,7 @@
 <h3>Languages and Tools:</h3>
 <p>
   <span><img height="45" src="icons/c/c-original.svg" />
-  <span><img height="45" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg"><span>
+  <span><img height="45" src="icons/cplusplus/cplusplus-plain.svg" />
   <span><img height="45" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg"><span>
   <span><img height="45" src="https://devicon.dev/devicon.git/icons/git/git-original.svg"><span>
   <span><img height="45" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"><span>

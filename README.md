@@ -10,17 +10,18 @@
 -------  
 <h3>Languages and Tools:</h3>
 <p>
+  <span><img height="45" src="icons/bootstrap/bootstrap-plain.svg" />
   <span><img height="45" src="icons/c/c-original.svg" />
-  <span><img height="45" src="icons/cplusplus/cplusplus-plain.svg" />
-  <span><img height="45" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg"><span>
-  <span><img height="45" src="https://devicon.dev/devicon.git/icons/git/git-original.svg"><span>
-  <span><img height="45" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"><span>
-  <span><img height="45" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg"></span>  
-  <span><img height="45" src="https://devicon.dev/devicon.git/icons/java/java-original.svg"><span>
-  <span><img height="45" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"><span>
-  <span><img height="45" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"><span>
-  <span><img height="45" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg"><span>
-  <span><img height="45" src="https://devicon.dev/devicon.git/icons/python/python-original.svg"><span>
+  <span><img height="45" src="icons/cplusplus/cplusplus-original.svg" />
+  <span><img height="45" src="icons/css3/css3-original.svg" />
+  <span><img height="45" src="icons/git/git-original.svg" />
+  <span><img height="45" src="icons/googlecloud/googlecloud-original.svg" />
+  <span><img height="45" src="icons/html5/html5-original.svg" /> 
+  <span><img height="45" src="icons/javascript/javascript-original.svg" />
+  <span><img height="45" src="icons/jupyter/jupyter-original.svg" />
+  <span><img height="45" src="icons/linux/linux-original.svg" />
+  <span><img height="45" src="icons/mysql/mysql-original.svg" />
+  <span><img height="45" src="icons/python/python-original.svg" />
 </p>  
   
   

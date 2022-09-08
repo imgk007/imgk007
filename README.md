@@ -2,8 +2,8 @@
 <p align="center"><img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif"></p>
  
 -------  
-- 🔭 I’m currently working on **FrontEnd**
-- 🌱 I’m currently learning **JavaScript**
+- 🔭 I’m currently working on **Java**
+- 🌱 I’m currently learning **SpringBoot**
 - 📫 How to reach me: <span><a href="https://www.linkedin.com/in/gnanavel-kumaran-g-281123176/">LinkedIn</a></span>
 - ⚡ Fun fact: Big Fan of **Batman**, **Black Panther** and **Captain America** 
 
